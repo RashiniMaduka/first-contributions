@@ -37,6 +37,7 @@
 - Adam Carroll
 - Green S
 - Edwin Waweru
+-Rashiii
 - [Norma Bunton] (https://github.com/normabunton)
 - [Jonah Waschek] (https://github.com/voz977)
 - [Agrim Jain](https://github.com/Agrim2411)
